@@ -17,3 +17,5 @@ Instead of using the powers of 2, the game uses the Fibonacci sequence for the t
 
 ## About the Development
 
+The game was developed using Swift. Specifically, the user interface was built using SwiftUI. Core Graphics was used to implement custom animations and design elements. Some other frameworks that were used include Combine Framework and UserDefaults. The entire coding process took place within Xcode, with the iOS Simulator used during the development process of the game.
+
